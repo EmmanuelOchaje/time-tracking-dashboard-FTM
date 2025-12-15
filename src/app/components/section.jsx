@@ -49,7 +49,7 @@ const Section = ({}) => {
   }
 
   return (
-    <section className="bg-[#0d1323] text-white font-light min-h-screen py-10 px-5">
+    <section className="bg-[#0d1323] text-white font-light flex items-center min-h-screen py-10 px-5">
       <div className="grid grid-cols-1 gap-6 max-w-6xl m-auto md:grid-cols-4">
         <div className="md:row-span-2 row-span-1 rounded-xl w-full flex flex-col gap-5 bg-[#1d204a]">
           <div className="w-full rounded-xl h-[70%] flex md:flex-col justify-center md:items-start items-center gap-5 p-10 bg-[#5847ebff]">
